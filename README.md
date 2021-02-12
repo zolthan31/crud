@@ -1,7 +1,7 @@
 # crud
 sistema de cadastro feito em angular
 Subindo servidor backend node utilizando o comando npm start 
-
+Servidor escutando na porta 3001 apos inicialização
 Realização de testes no backend utilizando o Postman 
 * Create
 * Read
